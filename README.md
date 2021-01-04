@@ -7,3 +7,4 @@ A version of an Atari Punk on an arduino nano
   0 to 5 volts on 
   A0      Freq
   A1      Pulse Width
+  
